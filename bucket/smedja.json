@@ -1,13 +1,13 @@
 {
   "##": "Written by smedja's deploy on every release (dist/packages.sh). An edit here is overwritten by the next one.",
-  "version": "0.1016",
+  "version": "0.1021",
   "description": "Terminal client for smedja, coding agents in hosted workspaces",
   "homepage": "https://www.smedja.app",
   "license": "Apache-2.0",
   "architecture": {
     "64bit": {
-      "url": "https://console.smedja.app/dl/0a1d9b521cc802c514d26a706277e80ad4a69121/smedja-windows-amd64.zip",
-      "hash": "c7bc18fb3e2c1b53a95cb4613f084e795c3d1f0aa792de08388116118ef0a2ef"
+      "url": "https://console.smedja.app/dl/919c9dd4ee07215c9aca4672755253bd9a54bd8c/smedja-windows-amd64.zip",
+      "hash": "593fa02a79fea9b16bde4b2861c780fceedf38d1a200d434c6330e68bfeeccbc"
     }
   },
   "bin": "smedja.exe"
